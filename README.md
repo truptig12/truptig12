@@ -1,6 +1,6 @@
 ### Hi there 👋, Trupti Gawde
 #### Android Developer
-![Android Developer](<iframe src="https://giphy.com/embed/llarwdtFqG63IlqUR1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1"></a></p>)
+![Android Developer](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
 
 I'm Trupti Gawde. I am an Android Developer. My toolkit includes Kotlin, Java, Jetpack and the latest Android tech stack.
 
