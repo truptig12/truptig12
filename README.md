@@ -6,8 +6,9 @@ I am an Android Developer!
 
 ### ⚡️ A quick introduction
 
-- 🌱 I’m currently learning Flutter. 
-- 💼 I'm open to freelancing projects.
+- 🔭 I’m currently working on Kotlin Jetpack compose projects
+- 🌱 I’m learning Flutter.
+- 💬 Ask me about anything related Android/Kotlin/Java
 
 ---
 
